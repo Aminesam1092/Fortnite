@@ -1,0 +1,134 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: adobe-clean-han-japanese,adobe-clean,Hiragino Kaku Gothic ProN,Yu Gothic,"\30E1 \30A4 \30EA \30AA","\30D2 \30E9 \30AE \30CE \89D2 \30B4 Pro W3",Hiragino Kaku Gothic Pro W3,Osaka,"\FF2D \FF33 \FF30 \30B4 \30B7 \30C3 \30AF",MS PGothic,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+
+button {
+    background: none;
+    border: none;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.Main_Primary {
+    background-color: #eeecec;
+}
+
+.FortniteIntrduction {
+    padding-top: 3px;
+    display: flex;
+    background-color: #f5f5f5;
+}
+
+.TopImage_Spidreman {
+    width: 100%;
+    vertical-align: top;
+}
+
+.Frtnite_svg {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.FortniteIntrduction__Conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.FortniteIntrduction__Conteiner-text {
+    height: 55px;
+    line-height: 55px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.Frtnite_svg {
+    margin-right: auto;
+}
+
+.SecondHeaderConteiner {
+    width: 500px;
+    height: 80px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.SecondHeaderConteiner_GameIntrduction {
+    text-align: center;
+    font-weight: 700;
+    width: 150px;
+    line-height: 80px;
+}
+
+.FortNiteChachCopy {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.FortNiteChachCopy__Text {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+.AdoveConteiner__Box__FrstConteiner {
+    width: 300px;
+    background-color: white;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+}
+.AdoveConteiner{
+    width:1000px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.AdoveConteiner__Box__FrstConteiner--Text {
+    display: block;
+}
+.AdoveConteiner__Box__CatchCopy {
+    text-align: center;
+}
+
+.AdoveConteiner__Box__FrstConteiner--IntrductionText {
+    padding-top: 20px;
+    font-size: 12.6px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(131, 131, 131);
+}
+.AdoveConteiner__Box__ButtonConteiner{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.AdoveConteiner__Box__ButtonConteiner--Button {
+    display: block;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: #1373e6;
+    border-radius: 50px;
+}
+.FortniteSecondCachCopy{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.Footerimage{
+    width: 100%;
+    vertical-align: top;
+}
