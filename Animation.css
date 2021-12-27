@@ -1,0 +1,52 @@
+@charset "utf-8";
+.FortniteIntrduction__Conteiner-button {
+    width: 200px;
+    height: 50px;
+    font-weight: 700;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.FortniteIntrduction__Conteiner-button:hover {
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+    box-shadow: 0px 0px 20px yellow;
+}
+
+.SecondHeaderConteiner_GameIntrduction {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.SecondHeaderConteiner_GameIntrduction:hover {
+    background-color: rgb(204, 204, 204);
+    box-shadow: 0px 0px 20px rgb(204, 204, 204);
+}
+
+#HoverColor {
+    width: 150px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+#HoverColor:hover {
+    background-color: rgb(230, 230, 230);
+    box-shadow: 0px 0px 20px rgb(230, 230, 230);
+}
+.AdoveConteiner__Box__ButtonConteiner--Button{
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.AdoveConteiner__Box__ButtonConteiner--Button:hover{
+    background-color: #1373e6;
+    box-shadow: 0px 0px 10px #1373e6;
+}
