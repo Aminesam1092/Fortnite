@@ -30,11 +30,6 @@ button {
     vertical-align: top;
 }
 
-.Frtnite_svg {
-    margin-top: 10px;
-    margin-left: 20px;
-}
-
 .FortniteIntrduction__Conteiner {
     margin-left: auto;
     margin-right: auto;
@@ -51,8 +46,12 @@ button {
 
 .Frtnite_svg {
     margin-right: auto;
+    margin-top: 10px;
+    margin-left: 50px;
 }
-
+.FortniteIntrduction__Image{
+    margin-left: 200px;
+}
 .SecondHeaderConteiner {
     width: 500px;
     height: 80px;
